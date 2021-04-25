@@ -1,8 +1,8 @@
 {
   "name": "dingtalk-generator",
   "displayName": "dingtalk-generator",
-  "description": "",
   "version": "0.0.1",
+  "publisher": "eva",
   "engines": {
     "vscode": "^1.55.0"
   },
